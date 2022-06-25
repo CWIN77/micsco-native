@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "MicsCo",
+    "icon": "./assets/icon.png",
+    "version": "1.0.0",
+    "slug": "MicsCo",
+    "ios": {
+      "bundleIdentifier": "com.cwin.micsco",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.cwin.micsco",
+      "versionCode": 1
+    }
+  }
+}
